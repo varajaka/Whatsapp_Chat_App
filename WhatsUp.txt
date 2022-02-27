@@ -11,3 +11,7 @@ Author: Varajaka
 4.Attachments(Image, Audio, Video)
 
 5.Hide the last page details.
+
+6.Adding Audio call features
+
+7.Adding Video call features
