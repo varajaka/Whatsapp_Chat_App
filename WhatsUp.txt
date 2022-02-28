@@ -15,3 +15,5 @@ Author: Varajaka
 6.Adding Audio call features
 
 7.Adding Video call features
+
+8.Adding Status features, so that thay can show there current status
